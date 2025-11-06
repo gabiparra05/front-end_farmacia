@@ -8,9 +8,9 @@ function Footer() {
             <div className="flex justify-center bg-green-800 text-white">
                 <div className="container flex flex-col items-center py-4">
                     <p className='text-xl font-bold'>
-                            Farmacia Ganjas | Copyright: {data}
+                            Farmacia Plantas e Raízes | Copyright: {data}
                         </p>
-                    <p className='text-lg'>Feito com Carinho </p>
+                    <p className='text-lg'>Feito com Carinho por Gabriella Parra</p>
                     <div className='flex gap-2'>
                     </div>
                 </div>
